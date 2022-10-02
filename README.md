@@ -1,8 +1,6 @@
-# Media Team (In Progress)
-This contains the governing documents over Media Team
+# Media Team 
 
-
-## Table of Contents ##
+## Team Lead: Unknown 
 
 
 
